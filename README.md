@@ -46,4 +46,7 @@ Your portfolio will be live at http://localhost:3000! 🎉
 - src/assets: Images, icons, and other assets.
 - src/pages: Portfolio page layouts.
 
+## 🤝 Contributing
+Contributions are always welcome! Please feel free to submit a Pull Request.
+
 
