@@ -1,4 +1,4 @@
-# 🌟 ProjectGenesis 🚀  
+# 🌟 ProjectGenesis 🖼️
 
 Welcome to **Genesis**, the ultimate blueprint to kickstart your online presence! This project is designed to help you create a stunning, fully customizable portfolio.  
 
