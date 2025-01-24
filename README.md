@@ -54,5 +54,7 @@ Your portfolio will be live at http://localhost:3000! 🎉
 
 ## 🤝 Contributing
 Contributions are always welcome! Please feel free to submit a Pull Request.
+
 ---
+
 Give this repo a ⭐ if you like it! 😊
