@@ -28,3 +28,22 @@ Welcome to **Genesis**, the ultimate blueprint to kickstart your online presence
    ```bash
    cd projectgenesis  
    ```
+3. Install dependencies:
+   ```bash
+   npm install  
+   ```
+
+### Run Locally
+Start the development server:
+  ```bash
+  npm start
+  ```
+
+Your portfolio will be live at http://localhost:3000! 🎉
+
+## 📂 Folder Structure
+- src/components: All reusable components.
+- src/assets: Images, icons, and other assets.
+- src/pages: Portfolio page layouts.
+
+
